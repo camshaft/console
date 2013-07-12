@@ -4,7 +4,7 @@
 
 function noop () {}
 
-module.exports = window.console || {
+module.exports = this.console || window.console || {
   log: noop,
   debug: noop,
   info: noop,
