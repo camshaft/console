@@ -1,0 +1,21 @@
+{
+  "name": "console",
+  "version": "0.1.0",
+  "description": "console fix for ie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CamShaft/console.git"
+  },
+  "keywords": [
+    "console"
+  ],
+  "author": "Cameron Bytheway <cameron@theflokk.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CamShaft/console/issues"
+  }
+}
